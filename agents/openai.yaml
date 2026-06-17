@@ -1,0 +1,4 @@
+interface:
+  display_name: "HFUT 文献下载与全文读取"
+  short_description: "用已登录合工大图书馆/WebVPN 会话下载并验证文献。"
+  default_prompt: "请使用 $hfut-literature-downloader，通过我已登录的合工大图书馆/WebVPN 浏览器会话下载并读取文献；遇到 CAS 或出版商验证时按安全交接流程处理。"
