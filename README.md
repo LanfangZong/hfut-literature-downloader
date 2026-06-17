@@ -1,6 +1,6 @@
 # HFUT Literature Downloader
 
-用你已经登录的合肥工业大学图书馆 / WebVPN / 数据库资源 / EBSCO / 出版社 Chrome 会话，合法检索并下载学术论文 PDF。
+用你已经登录的合肥工业大学图书馆 / WebVPN / 数据库资源 / EBSCO / 出版社 Chrome 会话，检索并下载学术论文 PDF。
 
 ## 什么时候用
 
